@@ -12,5 +12,5 @@ Bonus 25/25 :
 • Static library creation  
 #### Skills :  
 • Imperative programming   
-• Rigor  
 • Algorithms & AI
+• Rigor  
